@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\MentorGraphics\Capital" version="1.7.0_51">
+<bootpath>
+<entry path="C:\MentorGraphics\Capital\jre\lib\resources.jar"/>
+<entry path="C:\MentorGraphics\Capital\jre\lib\rt.jar"/>
+<entry path="C:\MentorGraphics\Capital\jre\lib\sunrsasign.jar"/>
+<entry path="C:\MentorGraphics\Capital\jre\lib\jsse.jar"/>
+<entry path="C:\MentorGraphics\Capital\jre\lib\jce.jar"/>
+<entry path="C:\MentorGraphics\Capital\jre\lib\charsets.jar"/>
+<entry path="C:\MentorGraphics\Capital\jre\lib\jfr.jar"/>
+<entry path="C:\MentorGraphics\Capital\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\MentorGraphics\Capital\jre\lib\ext"/>
+<entry path="C:\windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\MentorGraphics\Capital\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
